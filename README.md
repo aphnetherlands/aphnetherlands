@@ -21,6 +21,7 @@
 c + h 
   </div>
     <div align="center">
-   wip 
+      
+   <img width="93" height="93" alt="tumblr_f90b39441bbb9fec45398975f724118a_0c8e0e3f_100" src="https://github.com/user-attachments/assets/2bee5667-5be5-461d-ad73-696d25c5716e" />
   </div>
 
