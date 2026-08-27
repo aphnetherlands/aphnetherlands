@@ -5,3 +5,7 @@
 <div align="center">
 <img src="https://i.imgur.com/roUjH0P.png"/>
 </div>
+<div align="center">
+ᥴᥲᥒᥲᑯiᥲᥒ  <img width="20" height="20" alt="tumblr_64cf86e0b0ca5fa701d0d9c875588afc_f3ee10b5_75" src="https://github.com/user-attachments/assets/0dd2bb3b-2bbf-4723-9836-9c19b13a4fd2" /> lesᑲiᥲᥒ ⚢ <img width="20" height="20" alt="tumblr_64cf86e0b0ca5fa701d0d9c875588afc_f3ee10b5_75" src="https://github.com/user-attachments/assets/8b1edc6f-f619-4672-b483-69abaa1d3a13" /> c + h
+
+</div>
