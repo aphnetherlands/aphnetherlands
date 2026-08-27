@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="575" height="73" alt="tumblr_17e618cb290dd0a293a19f95c13fd147_d9a8f6ad_640" src="https://github.com/user-attachments/assets/7ae1fad1-82fc-4d3f-acca-cfb03080b033" />
+  <img width="2048" height="258" alt="tumblr_f8cba0742b63881b5ecf248996d6d98e_61104465_2048" src="https://github.com/user-attachments/assets/79831b2b-d097-46fb-b30e-477d1547caad" />
 </div>
 <div align="center">
 <img src="https://i.imgur.com/AjXpCTF.png"/>
